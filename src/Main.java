@@ -5,6 +5,8 @@ public class Main {
         System.out.println("this is annoying");
         System.out.println("can we go faster");
         System.out.println("IntelliJ saves everything right away.");
+        System.out.println("how to see this");
+        //added comment
     }
 }
 
