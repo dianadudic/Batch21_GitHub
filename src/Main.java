@@ -8,6 +8,8 @@ public class Main {
         System.out.println("how to see this");
         //added comment
         //I can't :(
+
+        //now we only need to commit and push
     }
 }
 
